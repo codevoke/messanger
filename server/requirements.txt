@@ -1,0 +1,5 @@
+Flask
+Flask-restx
+Flask-SQLAlchemy
+PYJWT
+passlib
